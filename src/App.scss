@@ -1,0 +1,9 @@
+@import "./scss/reset", "./scss/variables";
+
+body{
+  background-color: $backgroundColor;
+  font-family: $bodyFont;
+}
+p{
+  font-family: $pFont;
+}
