@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-motogp-project/static/css/main.d2115ff0.css",
+    "main.js": "/React-motogp-project/static/js/main.da8d0c7c.js",
+    "static/js/787.2e2e60b5.chunk.js": "/React-motogp-project/static/js/787.2e2e60b5.chunk.js",
+    "index.html": "/React-motogp-project/index.html",
+    "main.d2115ff0.css.map": "/React-motogp-project/static/css/main.d2115ff0.css.map",
+    "main.da8d0c7c.js.map": "/React-motogp-project/static/js/main.da8d0c7c.js.map",
+    "787.2e2e60b5.chunk.js.map": "/React-motogp-project/static/js/787.2e2e60b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2115ff0.css",
+    "static/js/main.da8d0c7c.js"
+  ]
+}
